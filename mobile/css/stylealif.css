@@ -1,0 +1,219 @@
+/*
+Theme Name: IAM Alive
+Description: Error Page 404 HTML Template. 
+Version: 1.0
+Author: K-Labs Labolatory
+Link Author : http://themeforest.net/user/klabs-labolatory
+*/
+
+/*Body Appearance*/
+body {
+	overflow-x:hidden;
+	font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+a,a:hover,a:focus,a:active,a.active {
+	outline:0
+}
+
+a {
+	color:#4da6ff;
+}
+
+a:hover,a:focus,a:active,a.active {
+	color:#3399ff;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:uppercase;
+	font-weight:700;
+}
+
+/*Submit Button Appearance*/
+.btn-xl {
+    margin-top: 10px;
+	color:#fff;
+	background-color:rgba(61, 113, 232, 0.98);
+	border-color:rgba(61, 113, 232, 0.98);
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:uppercase;
+	font-weight:700;
+	border-radius:3px;
+	font-size:18px;
+	padding:20px 40px;
+}
+
+.btn-xl:hover,.btn-xl:focus,.btn-xl:active,.btn-xl.active,.open .dropdown-toggle.btn-xl {
+	color:#fff;
+	background-color:rgba(33, 89, 216, 0.98);
+	border-color:rgba(33, 89, 216, 0.98);
+}
+
+.btn-xl:active,.btn-xl.active,.open .dropdown-toggle.btn-xl {
+	background-image:none;
+}
+
+/* Navigation Appearance*/
+.navbar-default {
+	background-color:#222;
+	border-color:transparent;
+}
+
+.navbar-default .navbar-brand {
+	color:#4da6ff;
+	font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+}
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
+	color:#3399ff;
+}
+
+.navbar-default .navbar-collapse {
+	border-color:rgba(255,255,255,.02)
+}
+
+.navbar-default .navbar-toggle {
+	background-color:#3399ff;
+	border-color:#3399ff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color:#fff;
+}
+
+.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
+	background-color:#3399ff;
+}
+
+.navbar-default .nav li a {
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:uppercase;
+	font-weight:bold;
+	letter-spacing:1px;
+	color:#fff;
+}
+
+.navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
+	color: #4da6ff;
+	outline:0;
+}
+.navbar-default .navbar-nav>.active>a {
+	border-radius:0;
+	color:#fff;
+	background-color:#4da6ff
+}
+
+.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
+	color:#fff;
+	background-color:#3399ff
+}
+
+/*Header Appearance*/
+header {
+    padding-bottom: 20px;
+	background-color:#222;
+	background-repeat:none;
+	background-attachment:scroll;
+	background-position:center center;
+	background-size:cover;
+	text-align:center;
+	color:#fff;
+}
+
+header .content-text {
+	padding-top:100px;
+	padding-bottom:50px;
+}
+
+header .content-text .content-desc {
+	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-style:italic;
+	font-size:22px;
+	margin-bottom:25px;
+}
+
+header .content-text .content-heading {
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:uppercase;
+	font-weight:700;
+	font-size:50px;
+	margin-bottom:25px;
+}
+
+/*Section Send Feed Back*/
+section {
+	padding:100px 0;
+}
+
+section h2.feedback-heading {
+	font-size:40px;
+	margin-top:0;
+	margin-bottom:15px;
+}
+
+section h3.feedback-subheading {
+	font-size:25px;
+	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:none;
+	font-style:italic;
+	font-weight:500;
+	margin-bottom:75px
+}
+
+.feedback-box{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    background-color: #222;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+section#feedback {
+	background-position:center center;
+	background-repeat:no-repeat;
+}
+section#feedback .feedback-heading {
+	color:#fff;
+}
+
+section#feedback .form-group {
+	margin-bottom:25px;
+}
+
+section#feedback .form-group input,section#feedback .form-group textarea {
+	padding:20px;
+}
+
+section#feedback .form-group input.form-control {
+	height:auto;
+}
+
+section#feedback .form-group textarea.form-control {
+	height:236px;
+}
+
+section#feedback .form-control:focus {
+	border-color:#4da6ff;
+	box-shadow:none;
+}
+
+section#feedback .text-danger {
+	color:#e74c3c;
+}
+
+/*Footer Area*/
+footer {
+	padding:20px 0;
+	text-align:center;
+}
+
+footer span.copyright {
+	line-height:40px;
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:uppercase;
+	text-transform:none;
+}
+footer a:hover{
+	text-decoration:none;
+	color:rgba(33, 89, 216, 0.98);
+}

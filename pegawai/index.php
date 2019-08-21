@@ -1,0 +1,1 @@
+<script type="text/javascript">location.href = '../view/pegawai/login.php';</script>

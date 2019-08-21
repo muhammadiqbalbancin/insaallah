@@ -1,0 +1,60 @@
+/*Responsive*/
+@media (min-width:768px) {
+    /*Navbar*/
+	.navbar-default {
+		background-color:transparent;
+		padding:25px 0;
+		-webkit-transition:padding .3s;
+		-moz-transition:padding .3s;
+		transition:padding .3s;
+		border:0
+	}
+    
+	.navbar-default .navbar-brand {
+		font-size:2em;
+		-webkit-transition:all .3s;
+		-moz-transition:all .3s;
+		transition:all .3s
+	}
+    
+	.navbar-default .navbar-nav>.active>a {
+		border-radius:3px
+	}
+    
+	.navbar-default.navbar-shrink {
+		background-color:#222;
+		padding:10px 0
+	}
+    
+	.navbar-default.navbar-shrink .navbar-brand {
+		font-size:1.5em
+	}
+    
+    /*Header*/
+	header .content-text {
+		padding-top:200px;
+		padding-bottom:90px
+	}
+    
+	header .content-text .content-desc {
+		font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+		font-style:italic;
+		font-size:40px;
+		line-height:40px;
+		margin-bottom:45px
+	}
+    
+	header .content-text .content-heading {
+		font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		text-transform:uppercase;
+		font-weight:700;
+		font-size:75px;
+		line-height:75px;
+		margin-bottom:50px
+	}
+    
+    /*All Section*/
+	section {
+		padding:150px 0
+	}
+}

@@ -1,0 +1,99 @@
+[24-Dec-2017 16:05:50 UTC] PHP Notice:  Undefined variable: aa in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:05:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:05:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u3987651/public_html/mobile/layanan.php on line 123
+[24-Dec-2017 16:09:38 UTC] PHP Notice:  Undefined variable: aa in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:09:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:09:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u3987651/public_html/mobile/layanan.php on line 123
+[24-Dec-2017 16:10:20 UTC] PHP Notice:  Undefined variable: aa in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:10:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:10:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u3987651/public_html/mobile/layanan.php on line 123
+[24-Dec-2017 16:10:43 UTC] PHP Notice:  Undefined variable: aa in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:10:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:10:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u3987651/public_html/mobile/layanan.php on line 123
+[24-Dec-2017 16:13:24 UTC] PHP Notice:  Undefined variable: aa in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:13:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:13:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u3987651/public_html/mobile/layanan.php on line 123
+[24-Dec-2017 16:13:35 UTC] PHP Notice:  Undefined variable: aa in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:13:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u3987651/public_html/mobile/layanan.php on line 122
+[24-Dec-2017 16:13:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u3987651/public_html/mobile/layanan.php on line 123
+[25-Dec-2017 02:24:46 UTC] PHP Notice:  Undefined variable: isi in /home/u3987651/public_html/mobile/berita.php on line 24
+[25-Dec-2017 07:52:56 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 29
+[25-Dec-2017 07:52:59 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 29
+[25-Dec-2017 07:53:03 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 29
+[25-Dec-2017 07:53:20 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 29
+[25-Dec-2017 07:53:22 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 29
+[25-Dec-2017 07:54:17 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 40
+[25-Dec-2017 07:54:19 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 40
+[25-Dec-2017 08:00:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u3987651/public_html/mobile/berita.php on line 58
+[25-Dec-2017 08:00:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u3987651/public_html/mobile/berita.php on line 58
+[25-Dec-2017 08:01:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u3987651/public_html/mobile/berita.php on line 58
+[25-Dec-2017 08:02:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u3987651/public_html/mobile/berita.php on line 58
+[25-Dec-2017 08:03:59 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/u3987651/public_html/mobile/berita.php on line 47
+[06-Jul-2019 06:11:49 UTC] PHP Notice:  Undefined variable: con in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php on line 58
+[06-Jul-2019 06:11:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php on line 58
+[06-Jul-2019 06:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php on line 59
+[06-Jul-2019 06:12:05 UTC] PHP Notice:  Undefined variable: con in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php on line 58
+[06-Jul-2019 06:12:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php on line 58
+[06-Jul-2019 06:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/u6015561/public_html/rantaugedang/mobile/rincianggaran.php on line 59
+[10-Jul-2019 05:29:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 77
+[10-Jul-2019 05:36:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 78
+[10-Jul-2019 05:36:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 78
+[10-Jul-2019 05:39:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 78
+[10-Jul-2019 05:45:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 78
+[10-Jul-2019 05:45:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 78
+[10-Jul-2019 05:51:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 79
+[10-Jul-2019 05:51:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 79
+[10-Jul-2019 05:51:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 79
+[18-Jul-2019 18:35:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 91
+[18-Jul-2019 19:07:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[18-Jul-2019 19:08:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[18-Jul-2019 19:09:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[18-Jul-2019 19:12:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[18-Jul-2019 19:12:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[18-Jul-2019 19:16:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[20-Jul-2019 02:53:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 66
+[25-Jul-2019 03:48:31 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 48
+[25-Jul-2019 03:49:18 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 48
+[25-Jul-2019 03:49:18 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 48
+[25-Jul-2019 03:49:50 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 48
+[25-Jul-2019 03:49:50 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 48
+[25-Jul-2019 03:52:52 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 76
+[25-Jul-2019 03:53:14 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 76
+[25-Jul-2019 03:53:15 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 76
+[25-Jul-2019 03:54:21 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 25
+[25-Jul-2019 03:54:21 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 76
+[25-Jul-2019 03:54:21 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 25
+[25-Jul-2019 03:54:21 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 76
+[25-Jul-2019 03:55:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 120
+[25-Jul-2019 03:56:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 120
+[25-Jul-2019 03:56:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 120
+[25-Jul-2019 03:57:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 119
+[25-Jul-2019 03:57:45 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 48
+[25-Jul-2019 03:59:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 118
+[25-Jul-2019 04:02:09 UTC] PHP Notice:  Undefined variable: data in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 49
+[25-Jul-2019 04:10:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 96
+[25-Jul-2019 04:10:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 96
+[25-Jul-2019 04:16:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 97
+[25-Jul-2019 04:17:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 97
+[25-Jul-2019 04:18:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 99
+[25-Jul-2019 04:20:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 98
+[25-Jul-2019 04:23:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 98
+[25-Jul-2019 04:23:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 98
+[25-Jul-2019 04:28:08 UTC] PHP Notice:  Undefined variable: isi in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 55
+[25-Jul-2019 04:28:09 UTC] PHP Notice:  Undefined variable: isi in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 55
+[25-Jul-2019 04:29:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 99
+[25-Jul-2019 04:31:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 100
+[25-Jul-2019 04:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[25-Jul-2019 04:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 59
+[25-Jul-2019 04:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 58
+[25-Jul-2019 04:38:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 57
+[25-Jul-2019 04:46:20 UTC] PHP Notice:  Undefined index: gambar in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 31
+[25-Jul-2019 04:46:45 UTC] PHP Notice:  Undefined index: gambar in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 31
+[25-Jul-2019 06:43:15 UTC] PHP Notice:  Undefined variable: in in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 64
+[25-Jul-2019 06:43:30 UTC] PHP Notice:  Undefined variable: ini in /home/u6015561/public_html/rantaugedang/mobile/pemerintahan.php on line 64
